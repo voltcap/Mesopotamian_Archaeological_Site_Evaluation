@@ -1,4 +1,5 @@
 MESOSAT is a fault-tolerant ensemble model for the classification of archaeological sites. The intelligent system incorporates three ML models, a majority voter, fault injection mechanisms, and visualisation generation in the form of confusion matrices and heatmaps. MESOSAT outputs worthiness statistics, classed as “Yes” for excavation worthiness, “No” for unworthiness, and “Partial” for possible excavation, supplemented with the training loss, epochs, accuracy, precision, recall, and F1 scores. 
+
 ![Screenshot 2025-04-27 174246](https://github.com/user-attachments/assets/3e6121eb-35f4-4e45-aec6-80b7a4f6fbc0)
 
 A dedicated dataset was created for this project, containing images from over 20 Mesopotamian archaeological sites.
